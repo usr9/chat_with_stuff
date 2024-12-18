@@ -1,5 +1,3 @@
-# call_weather.py
-
 from dataclasses import dataclass
 from typing import List, Dict, Any
 import os
