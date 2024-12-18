@@ -20,7 +20,7 @@ A real-time aircraft tracking system that integrates the OpenSky Network API wit
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/usr9/natural_language_plane_tracker.git
+git clone https://github.com/usr9/chat_with_stuff.git
 cd chat_with_plane_tracker
 ```
 
