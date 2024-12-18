@@ -1,0 +1,5 @@
+anthropic==0.42.0
+Flask==2.3.2
+httpx==0.13.3
+python-dotenv==1.0.1
+rich==13.9.4
