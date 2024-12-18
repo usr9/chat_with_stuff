@@ -24,7 +24,7 @@ git clone https://github.com/usr9/chat_with_stuff.git
 cd chat_with_plane_tracker
 ```
 
-1. Set up environment variables:
+2. Set up environment variables:
 
 ```bash
 cp .env.example .env
@@ -37,7 +37,7 @@ ANTHROPIC_API_KEY=your_key_here
 PORT=5000  # Optional, defaults to 5000
 ```
 
-1. Install dependencies:
+3. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
